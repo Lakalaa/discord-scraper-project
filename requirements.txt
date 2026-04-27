@@ -1,0 +1,10 @@
+---
+
+#### 3. File Name: requirements.txt
+This file lists all dependencies required for the project.
+
+```text
+discum
+selenium
+python-dotenv
+requests
